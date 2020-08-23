@@ -1,0 +1,9 @@
+html {
+    background-size: cover;
+    background-color: grey;
+    color: honeydew;
+}
+a.menu {
+    text-align: center;
+    display: inline;
+}
